@@ -1,0 +1,13 @@
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.exe
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.deps.json
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.runtimeconfig.json
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.runtimeconfig.dev.json
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.dll
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\bin\Debug\netcoreapp3.1\sorting_3.8.pdb
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.csprojAssemblyReference.cache
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.AssemblyInfoInputs.cache
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.AssemblyInfo.cs
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.csproj.CoreCompileInputs.cache
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.dll
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.pdb
+C:\Users\zer01\source\repos\sorting_3.8\sorting_3.8\obj\Debug\netcoreapp3.1\sorting_3.8.genruntimeconfig.cache
